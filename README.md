@@ -1,6 +1,6 @@
 # Arper
 
-A network utility and library for discoverying network device via ARP scans, including vendor names.
+A network utility and library for discovering network device via ARP scans, including vendor names.
 
 ## Quick Start
 
@@ -59,7 +59,7 @@ Fork, implement, add tests, pull request, get my everlasting thanks and a respec
 
 ### Thanks:
 
-To all [Contributors](https://github.com/jondot/redux-duet/graphs/contributors) - you make this happen, thanks!
+To all [Contributors](https://github.com/jondot/arper/graphs/contributors) - you make this happen, thanks!
 
 
 # Copyright
