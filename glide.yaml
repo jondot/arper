@@ -1,0 +1,7 @@
+package: github.com/jondot/arper
+import:
+- package: github.com/dutchcoders/go-ouitools
+- package: github.com/google/gopacket
+  subpackages:
+  - layers
+  - pcap

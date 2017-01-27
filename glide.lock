@@ -1,0 +1,11 @@
+hash: 98f0041c22ec659d6c6090137286fe22600dabccd9389be4f82c66f7ebba0894
+updated: 2017-01-27T23:06:55.721821209+02:00
+imports:
+- name: github.com/dutchcoders/go-ouitools
+  version: ac8139d3326a3a5eb5ec0b368cddf72ed26547fa
+- name: github.com/google/gopacket
+  version: f2069106901871946677e14161eee5612e413fb8
+  subpackages:
+  - layers
+  - pcap
+testImports: []
